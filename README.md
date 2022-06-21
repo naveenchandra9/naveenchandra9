@@ -53,6 +53,6 @@ I am a Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveenchandra9&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&border=000000&sideNums=6FC362&sideLabels=44FF52D7&currStreakNum=35C057)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveenchandra9&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000034&border=000000&sideNums=6FC362&sideLabels=44FF52D7&currStreakNum=35C057)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenchandra9&layout=compact&theme=gotham&hide_border=1&exclude_repo=github-slideshow )](https://github.com/anuraghazra/github-readme-stats)
