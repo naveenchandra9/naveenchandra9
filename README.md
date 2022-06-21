@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1946/1946039.png" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1946/1946039.png" width="150"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="linkedin.com/in/naveenchandra-halemani-9ba53958">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/NaveenchandraH">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
