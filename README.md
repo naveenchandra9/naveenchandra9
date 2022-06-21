@@ -23,3 +23,36 @@
 <div align="center">
   <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="1200" height="5"/>
 </div>
+
+### :man_technologist: About Me :
+
+I am a Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m interested in working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :zap: In my free time, I solve sudoko and watch sci-fi movies.
+
+<div align="center">
+  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="1200" height="5"/>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+ </div>
+ 
+<div align="center">
+  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="1200" height="5"/>
+</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveenchandra9&theme=dark&date_format=j%20M%5B%20Y%5D&border=000000&background=00000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenchandra9&layout=compact&theme=gotham&hide_border=1&exclude_repo=github-slideshow )](https://github.com/anuraghazra/github-readme-stats)
