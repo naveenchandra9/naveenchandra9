@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1946/1946039.png" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1946/1946039.png" width="200"/>
 </div>
 
 <div id="badges" align="center">
