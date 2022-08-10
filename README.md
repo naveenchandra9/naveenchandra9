@@ -21,7 +21,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="900" height="5"/>
+  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="800" height="5"/>
 </div>
 
 ### :man_technologist: About Me :
@@ -32,7 +32,7 @@ I am a Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 - :zap: In my free time, I solve sudoko and watch sci-fi movies.
 
 <div align="center">
-  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="900" height="5"/>
+  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="800" height="5"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -48,7 +48,7 @@ I am a Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCE
  </div>
  
 <div align="center">
-  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="900" height="5"/>
+  <img src="https://c.tenor.com/1OsAOM8OXdUAAAAC/nick-jbl-white-dot.gif" width="800" height="5"/>
 </div>
 
 ### :fire: My Stats :
