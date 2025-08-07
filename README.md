@@ -56,4 +56,4 @@ I am a Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenchandra9&layout=compact&theme=gotham&hide_border=1&exclude_repo=github-slideshow )](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/neoveen?ext=activity)
+![](https://leetcard.jacoblin.cool/neoveen?site=cn)
